@@ -42,6 +42,6 @@ export default {
   },
 
   build: {
-    publicPath: '/dist/'
+    publicPath: '/'
   }
 }
