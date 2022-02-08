@@ -42,6 +42,6 @@ export default {
   },
 
   build: {
-    publicPath: '/'
+    publicPath: 'https://tang19970214.github.io/tourism/dist/'
   }
 }
